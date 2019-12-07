@@ -1,0 +1,195 @@
+machines.hyperreal.org|anon00000000000000297397|GET /manufacturers/Roland/TB-303/ HTTP/1.0|text/html|200|1999/04/29-23:59:24|-|-|-|http://www.kiss.uni-lj.si/~k4fe0077/synths/roland_tb-303.htm|Mozilla/4.05 [en] (Win95; U ;Nav)
+machines.hyperreal.org|anon00000000000000297397|GET /manufacturers/Roland/TB-303/schematics/roland.TB-303.schem-4.gif HTTP/1.0|image/gif|200|1999/04/30-00:00:14|-|105006|-|http://machines.hyperreal.org/manufacturers/Roland/TB-303/|Mozilla/4.05 [en] (Win95; U ;Nav)
+machines.hyperreal.org|anon00000000000000297397|GET /manufacturers/Roland/TB-303/ HTTP/1.0|text/html|200|1999/04/30-00:00:57|-|-|-|http://www.kiss.uni-lj.si/~k4fe0077/synths/roland_tb-303.htm|Mozilla/4.05 [en] (Win95; U ;Nav)
+machines.hyperreal.org|anon00000000000000297397|GET /manufacturers/Roland/TB-303/schematics/roland.TB-303.schem-5.gif HTTP/1.0|image/gif|200|1999/04/30-00:02:08|-|145698|-|http://machines.hyperreal.org/manufacturers/Roland/TB-303/|Mozilla/4.05 [en] (Win95; U ;Nav)
+machines.hyperreal.org|anon00000000000000297400|GET /manufacturers/ HTTP/1.1|text/html|200|1999/04/30-00:00:30|-|6287|-|http://machines.hyperreal.org/winky/0032.html?Winky|Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+machines.hyperreal.org|anon00000000000000297400|GET /images/title.jpg HTTP/1.1|image/jpeg|304|1999/04/30-00:00:32|-|-|-|http://machines.hyperreal.org/manufacturers/|Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+machines.hyperreal.org|anon00000000000000297400|GET /images/bullet-yellow.gif HTTP/1.1|image/gif|304|1999/04/30-00:00:32|-|-|-|http://machines.hyperreal.org/manufacturers/|Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+machines.hyperreal.org|anon00000000000000297400|GET /images/agent.gif HTTP/1.1|image/gif|304|1999/04/30-00:00:32|-|-|-|http://machines.hyperreal.org/manufacturers/|Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+machines.hyperreal.org|anon00000000000000297400|GET /images/bullet-blue.gif HTTP/1.1|image/gif|304|1999/04/30-00:00:32|-|-|-|http://machines.hyperreal.org/manufacturers/|Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-BS05.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-00:03:36|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-RNG4.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-01:03:34|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-PWM1.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-02:03:21|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-BS04.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-08:16:18|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-BS01.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-12:27:16|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-FM04.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-15:49:12|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/Korg/Poly-800.EX-800/patches/poly8002.wav HTTP/1.0|audio/x-wav|200|1999/04/30-18:18:04|-|0|-|-|-
+machines.hyperreal.org|anon00000000000000009583|HEAD /manufacturers/ARP/Odyssey/samples/ODY-PAD1.WAV HTTP/1.0|audio/x-wav|200|1999/04/30-21:07:31|-|0|-|-|-
+www.hyperreal.org|anon00000000000000223555|GET /~bit/machines/select.cgi? HTTP/1.0|text/html|200|1999/04/30-00:04:21|-|5239|-|http://www1.tip.nl/~t016437/cardcenter_m_o.htm|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+www.hyperreal.com|anon00000000000000296197|GET /machines/ecards//icons/arp-2500.jpg HTTP/1.0|text/html|301|1999/04/30-00:04:26|-|264|-|http://www.hyperreal.org/~bit/machines/select.cgi?|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+machines.hyperreal.org|anon00000000000000296197|GET /ecards//icons/t_303.gif HTTP/1.0|image/gif|200|1999/04/30-00:04:27|-|4263|-|http://www.hyperreal.org/~bit/machines/select.cgi?|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+www.hyperreal.org|anon00000000000000296197|GET /machines/ecards//icons/t_prophet-5.jpg HTTP/1.0|text/html|301|1999/04/30-00:04:46|-|263|-|http://www.hyperreal.org/~bit/machines/select.cgi?|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+machines.hyperreal.org|anon00000000000000296197|GET /guide/ HTTP/1.0|text/html|200|1999/04/30-09:23:45|-|3820|-|http://machines.hyperreal.org/|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 98)
+www.hyperreal.org|anon00000000000000296197|GET /music/machines/samples.html HTTP/1.0|text/html|301|1999/04/30-09:56:49|-|246|-|http://www.synthzone.com/sampling.htm|Mozilla/2.0 (compatible; MSIE 3.0; AOL 4.0; Windows 95)
+www.hyperreal.org|anon00000000000000296197|GET /music/machines/samples.html HTTP/1.0|text/html|301|1999/04/30-11:11:34|-|246|-|-|Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; AOL 4.0; Windows 98)
+www.hyperreal.org|anon00000000000000296197|GET /music/machines/samples.html HTTP/1.0|text/html|301|1999/04/30-11:57:28|-|246|-|http://www.cs.ruu.nl/people/jules/Akai/Help/sounds.html|Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; AOL 4.0; Windows 98)
+www.hyperreal.org|anon00000000000000296197|GET /music/machines/samples.html HTTP/1.0|text/html|301|1999/04/30-12:25:43|-|246|-|http://www.hotbot.com/?MT=music+samples&SM=MC&DV=0&LG=any&DC=10&DE=2&clickSrc=search&_v=2&OPs=MDRTP&ACF=1&base=20&NOS=10|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 98)
+www.hyperreal.com|anon00000000000000296197|GET /machines/ecards//icons/arp-2500.jpg HTTP/1.0|text/html|301|1999/04/30-16:38:49|-|264|-|http://machines.hyperreal.org/ecards/index.cgi|Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; AOL 4.0; Windows 98)
+www.hyperreal.org|anon00000000000000296197|GET /machines/ecards//icons/t_prophet-5.jpg HTTP/1.0|text/html|301|1999/04/30-16:39:47|-|263|-|http://machines.hyperreal.org/ecards/index.cgi|Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; AOL 4.0; Windows 98)
+machines.hyperreal.org|anon00000000000000199489|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-17:46:09|-|-|-|-|Crawler V 0.2.1 admin@crawler.de
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:38:20|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000231724|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-15:45:06|-|-|-|-|Scooter/2.0 G.R.A.B. V1.1.0
+machines.hyperreal.org|anon00000000000000288038|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-19:49:47|-|-|-|-|N2H2-BirdDog/flyingace-1.037
+machines.hyperreal.org|anon00000000000000298286|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-20:00:22|-|-|-|-|-
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/monosynths/MS-synths/schematics/KLM.readme HTTP/1.0|text/html|301|1999/04/30-00:04:38|-|287|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:04:38|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/monosynths/MS-synths/schematics/KLM.readme HTTP/1.0|text/plain|200|1999/04/30-00:04:40|-|427|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/modulars/A-100/images/ HTTP/1.0|text/html|301|1999/04/30-00:37:01|-|267|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:37:02|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/modulars/A-100/images/ HTTP/1.0|text/html|200|1999/04/30-00:37:05|-|3512|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Voyetra/info/Voyetra-8.service HTTP/1.0|text/html|301|1999/04/30-00:38:19|-|278|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:38:20|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Voyetra/info/Voyetra-8.service HTTP/1.0|text/html|404|1999/04/30-00:38:22|-|-|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/DIY/schematics/midithru.txt HTTP/1.0|text/html|301|1999/04/30-00:40:14|-|272|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:40:14|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/DIY/schematics/midithru.txt HTTP/1.0|text/plain|200|1999/04/30-00:40:17|-|276|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/incoming/do-it-yourself/ HTTP/1.0|text/html|301|1999/04/30-00:46:13|-|258|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/Poly-800.EX-800/info/korg.Poly-800.acid HTTP/1.0|text/html|301|1999/04/30-00:46:14|-|292|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:46:14|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/Poly-800.EX-800/info/korg.Poly-800.acid HTTP/1.0|text/plain|200|1999/04/30-00:46:17|-|10601|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /incoming/do-it-yourself/ HTTP/1.0|text/html|200|1999/04/30-00:46:20|-|847|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Moog/MG-1/info/ HTTP/1.0|text/html|301|1999/04/30-00:57:37|-|263|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-00:57:37|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Moog/MG-1/info/ HTTP/1.0|text/html|200|1999/04/30-00:57:40|-|3359|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/monosynths/Trident/info/ HTTP/1.0|text/html|301|1999/04/30-00:57:56|-|269|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/monosynths/Trident/info/ HTTP/1.0|text/html|200|1999/04/30-00:57:56|-|3272|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Maplin/5600S/info/ HTTP/1.0|text/html|301|1999/04/30-01:01:09|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:01:09|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Maplin/5600S/info/ HTTP/1.0|text/html|200|1999/04/30-01:01:12|-|3264|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/PPG/ HTTP/1.0|text/html|301|1999/04/30-01:02:10|-|252|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:02:10|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/PPG/ HTTP/1.0|text/html|200|1999/04/30-01:02:12|-|3592|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Kawai/XD-5/info/XD-5 HTTP/1.0|text/html|301|1999/04/30-01:06:19|-|268|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:06:19|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Kawai/XD-5/info/XD-5 HTTP/1.0|text/plain|200|1999/04/30-01:06:22|-|3176|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Cheetah/MS-6/info/ HTTP/1.0|text/html|301|1999/04/30-01:07:29|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:07:29|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Cheetah/MS-6/info/ HTTP/1.0|text/html|200|1999/04/30-01:07:32|-|3266|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/software.html HTTP/1.0|text/html|301|1999/04/30-01:12:27|-|247|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:12:28|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /software.html HTTP/1.0|text/html|200|1999/04/30-01:12:30|-|4505|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/DIY/schematics/AD633.ringmod.txt HTTP/1.0|text/html|301|1999/04/30-01:12:48|-|277|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/DIY/schematics/AD633.ringmod.txt HTTP/1.0|text/plain|200|1999/04/30-01:12:48|-|817|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/drum-machines/TR-909/images/ HTTP/1.0|text/html|301|1999/04/30-01:16:06|-|273|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/drum-machines/TR-909/images/ HTTP/1.0|text/html|200|1999/04/30-01:16:06|-|3385|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Yamaha/CS-01/info/ HTTP/1.0|text/html|301|1999/04/30-01:24:44|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:24:44|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Yamaha/CS-01/info/ HTTP/1.0|text/html|200|1999/04/30-01:24:47|-|3371|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Ensoniq/ESQ-1/ HTTP/1.0|text/html|301|1999/04/30-01:28:25|-|262|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:28:25|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Ensoniq/ESQ-1/ HTTP/1.0|text/html|200|1999/04/30-01:28:27|-|3870|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/DIY/info/stop-RF HTTP/1.0|text/html|301|1999/04/30-01:35:25|-|261|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:35:26|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/DIY/info/stop-RF HTTP/1.0|text/plain|200|1999/04/30-01:35:28|-|1087|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/new.html HTTP/1.0|text/html|301|1999/04/30-01:35:52|-|242|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:35:52|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /new.html HTTP/1.0|text/html|200|1999/04/30-01:35:55|-|5556|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Sequential/info/sequential.DrumTrax.clock.and.more.info HTTP/1.0|text/html|301|1999/04/30-01:40:48|-|303|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:40:50|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Sequential/info/sequential.DrumTrax.clock.and.more.info HTTP/1.0|text/plain|200|1999/04/30-01:40:53|-|3191|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Kawai/info/alesis.mmt-8.vs.kawai.q80 HTTP/1.0|text/html|301|1999/04/30-01:43:43|-|284|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:43:44|-|-|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/JX/samples/ HTTP/1.0|text/html|301|1999/04/30-01:43:46|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Kawai/info/alesis.mmt-8.vs.kawai.q80 HTTP/1.0|text/plain|200|1999/04/30-01:43:47|-|7589|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/JX/samples/ HTTP/1.0|text/html|200|1999/04/30-01:43:50|-|5533|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/do-it-yourself/chips/78xx.and.79xx.voltage.regulator.pinouts HTTP/1.0|text/html|301|1999/04/30-01:47:32|-|305|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-01:47:33|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/do-it-yourself/chips/78xx.and.79xx.voltage.regulator.pinouts HTTP/1.0|text/plain|200|1999/04/30-01:47:35|-|716|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Moog/MG-1/mods/MG-1.trigger.speed.enhance HTTP/1.0|text/html|301|1999/04/30-01:51:57|-|289|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Moog/MG-1/mods/MG-1.trigger.speed.enhance HTTP/1.0|text/plain|200|1999/04/30-01:51:57|-|3167|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Moog/info/ HTTP/1.0|text/html|301|1999/04/30-01:55:32|-|258|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Moog/info/ HTTP/1.0|text/html|200|1999/04/30-01:55:33|-|4699|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Moog/MG-1/mods/MG-1.multitrig.mod HTTP/1.0|text/html|301|1999/04/30-02:01:08|-|281|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:01:13|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Moog/MG-1/mods/MG-1.multitrig.mod HTTP/1.0|text/plain|200|1999/04/30-02:01:16|-|8707|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/Trident/images/ HTTP/1.0|text/html|301|1999/04/30-02:09:45|-|268|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:09:45|-|-|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/modulars/A-100/info/ HTTP/1.0|text/html|301|1999/04/30-02:09:46|-|265|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/Trident/images/ HTTP/1.0|text/html|200|1999/04/30-02:09:47|-|3613|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/modulars/A-100/info/ HTTP/1.0|text/html|200|1999/04/30-02:09:50|-|4305|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Linn/LinnDrum/samples/ HTTP/1.0|text/html|301|1999/04/30-02:15:45|-|270|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:15:45|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Linn/LinnDrum/samples/ HTTP/1.0|text/html|200|1999/04/30-02:15:48|-|3379|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Paia/FingerDrum/ HTTP/1.0|text/html|301|1999/04/30-02:18:26|-|264|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Paia/FingerDrum/ HTTP/1.0|text/html|200|1999/04/30-02:18:28|-|3460|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/categories/software/MusicSoftwareExchange/sndcards.txt HTTP/1.0|text/html|301|1999/04/30-02:20:30|-|288|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:20:30|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /categories/software/MusicSoftwareExchange/sndcards.txt HTTP/1.0|text/plain|200|1999/04/30-02:20:33|-|8108|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/Juno/info/roland.Juno1.filter.tweaks HTTP/1.0|text/html|301|1999/04/30-02:29:41|-|291|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:29:42|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/Juno/info/roland.Juno1.filter.tweaks HTTP/1.0|text/plain|200|1999/04/30-02:29:45|-|1153|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Boss/DR-110/samples/ HTTP/1.0|text/html|301|1999/04/30-02:30:03|-|268|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Boss/DR-110/samples/ HTTP/1.0|text/html|200|1999/04/30-02:30:03|-|3375|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/EMS/info/VCS3.control HTTP/1.0|text/html|301|1999/04/30-02:30:50|-|269|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/EMS/info/VCS3.control HTTP/1.0|text/plain|200|1999/04/30-02:30:51|-|1466|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Exclusively-Analogue/Aviator/info/Aviator.ad HTTP/1.0|text/html|301|1999/04/30-02:47:37|-|292|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-02:47:41|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Exclusively-Analogue/Aviator/info/Aviator.ad HTTP/1.0|text/plain|200|1999/04/30-02:47:44|-|3677|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Oxford/ HTTP/1.0|text/html|301|1999/04/30-03:14:55|-|255|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-03:14:59|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Oxford/ HTTP/1.0|text/html|200|1999/04/30-03:15:02|-|3195|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Sequential/SixTrak/info/6trak.mod.comments HTTP/1.0|text/html|301|1999/04/30-03:35:34|-|290|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-03:35:34|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Sequential/SixTrak/info/6trak.mod.comments HTTP/1.0|text/plain|200|1999/04/30-03:35:36|-|2982|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Synton/info/synton.vocoders HTTP/1.0|text/html|301|1999/04/30-03:49:36|-|275|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-03:49:36|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Synton/info/synton.vocoders HTTP/1.0|text/plain|200|1999/04/30-03:49:39|-|1860|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Emu/Emu-Modular/info/emu.modular.Filter HTTP/1.0|text/html|301|1999/04/30-04:02:35|-|287|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-04:02:38|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Emu/Emu-Modular/info/emu.modular.Filter HTTP/1.0|text/plain|200|1999/04/30-04:02:41|-|2091|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Kurzweil/info/kurzweil.K-150 HTTP/1.0|text/html|301|1999/04/30-04:03:21|-|276|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Kurzweil/info/kurzweil.K-150 HTTP/1.0|text/plain|200|1999/04/30-04:03:21|-|5193|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/EVS/info/evs-1.txt HTTP/1.0|text/html|301|1999/04/30-04:10:03|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-04:10:06|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/EVS/info/evs-1.txt HTTP/1.0|text/plain|200|1999/04/30-04:10:08|-|2049|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Casio/CZ/software/ HTTP/1.0|text/html|301|1999/04/30-04:23:22|-|266|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-04:23:22|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Casio/CZ/software/ HTTP/1.0|text/html|200|1999/04/30-04:23:25|-|3581|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Moog/Source/info/moog.Source.Encore-midi-kit HTTP/1.0|text/html|301|1999/04/30-04:34:48|-|292|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-04:34:48|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Moog/Source/info/moog.Source.Encore-midi-kit HTTP/1.0|text/plain|200|1999/04/30-04:34:51|-|2133|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/MC-202/patches/ HTTP/1.0|text/html|301|1999/04/30-04:57:01|-|270|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-04:57:02|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/MC-202/patches/ HTTP/1.0|text/html|200|1999/04/30-04:57:04|-|3302|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/TR-808/info/roland.TR-808.programming HTTP/1.0|text/html|301|1999/04/30-05:35:22|-|292|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/TR-808/info/roland.TR-808.programming HTTP/1.0|text/plain|200|1999/04/30-05:35:26|-|5691|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/TR-808/samples/00_HAVING-TROUBLE HTTP/1.0|text/html|301|1999/04/30-05:37:38|-|287|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-05:37:38|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/TR-808/samples/00_HAVING-TROUBLE HTTP/1.0|text/plain|200|1999/04/30-05:37:41|-|568|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/TR-808/samples/TR-808/ HTTP/1.0|text/html|301|1999/04/30-05:38:28|-|277|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/TR-808/samples/TR-808/ HTTP/1.0|text/html|200|1999/04/30-05:38:31|-|1028|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/TR-808/samples/TR-808/TR808-2.TXT HTTP/1.0|text/html|301|1999/04/30-05:39:29|-|288|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-05:39:29|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/TR-808/samples/TR-808/TR808-2.TXT HTTP/1.0|text/plain|200|1999/04/30-05:39:32|-|1344|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Kawai/K-4/software/k4v311_readme.txt HTTP/1.0|text/html|301|1999/04/30-05:41:53|-|284|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-05:41:53|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Kawai/K-4/software/k4v311_readme.txt HTTP/1.0|text/plain|200|1999/04/30-05:41:56|-|1344|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-05:57:09|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/TB-303/mods/ HTTP/1.0|text/html|200|1999/04/30-05:57:12|-|3526|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/MiniKorg.MaxiKorg/ HTTP/1.0|text/html|301|1999/04/30-06:03:40|-|271|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-06:03:40|-|-|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/KR-55/ HTTP/1.0|text/html|301|1999/04/30-06:03:40|-|259|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/MiniKorg.MaxiKorg/ HTTP/1.0|text/html|200|1999/04/30-06:03:43|-|3531|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/KR-55/ HTTP/1.0|text/html|200|1999/04/30-06:03:46|-|4050|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/M1.M3/ HTTP/1.0|text/html|301|1999/04/30-06:05:22|-|259|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-06:05:22|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/M1.M3/ HTTP/1.0|text/html|200|1999/04/30-06:05:25|-|3477|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Korg/MS-synths/ HTTP/1.0|text/html|301|1999/04/30-06:05:52|-|263|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Korg/MS-synths/ HTTP/1.0|text/html|200|1999/04/30-06:05:52|-|5725|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/JP-8000/ HTTP/1.0|text/html|301|1999/04/30-06:06:57|-|263|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/JP-8000/ HTTP/1.0|text/html|200|1999/04/30-06:06:57|-|3442|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Novation/BassStation/novation.BassStation-rack.specs HTTP/1.0|text/html|301|1999/04/30-06:07:07|-|300|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-06:07:07|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Novation/BassStation/novation.BassStation-rack.specs HTTP/1.0|text/plain|200|1999/04/30-06:07:10|-|4254|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/D-synths/ HTTP/1.0|text/html|301|1999/04/30-06:07:24|-|264|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/D-synths/ HTTP/1.0|text/html|200|1999/04/30-06:07:24|-|3743|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Roland/MC-202/info/MC-202 HTTP/1.0|text/html|301|1999/04/30-06:17:10|-|273|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-06:17:10|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Roland/MC-202/info/MC-202 HTTP/1.0|text/plain|200|1999/04/30-06:17:13|-|2335|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-06:30:49|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /email.html HTTP/1.0|text/html|200|1999/04/30-06:30:51|-|4686|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/Crumar/ HTTP/1.0|text/html|301|1999/04/30-07:05:07|-|255|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /robots.txt HTTP/1.0|text/html|404|1999/04/30-07:05:07|-|-|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/Crumar/ HTTP/1.0|text/html|200|1999/04/30-07:05:10|-|3510|-|-|InfoSeek Sidewinder/0.9
+www.hyperreal.org|anon00000000000000076692|GET /music/machines/manufacturers/EMS/ HTTP/1.0|text/html|301|1999/04/30-07:28:59|-|252|-|-|InfoSeek Sidewinder/0.9
+machines.hyperreal.org|anon00000000000000076692|GET /manufacturers/EMS/ HTTP/1.0|text/html|200|1999/04/30-07:28:59|-|3683|-|-|InfoSeek Sidewinder/0.9
